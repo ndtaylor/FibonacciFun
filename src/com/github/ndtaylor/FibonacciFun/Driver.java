@@ -10,7 +10,7 @@ public class Driver {
 
     /**
      * Continuously loops asking the user what fibonacci number they want to calculate until they 
-     * enter something that is not an interger.
+     * enter something that is not an integer.
      * @param args Ignores all arguments.
      */
     public static void main(String[] args) {
